@@ -45,22 +45,21 @@ El juego 'Space Travel' fue desarrollado por Ken Thompson en 1969 como parte del
 
 ### Respuesta
 
-![Bill Gates]("C:\Users\kevin\OneDrive - CINVESTAV\Escritorio\BG.jpeg")
+![Bill Gates](https://es.wikipedia.org/wiki/Archivo:Bill_Gates_2017_(cropped).jpg)
 
-![Linus Torvalds](ruta_de_la_imagen)
+![Linus Torvalds](https://es.wikipedia.org/wiki/Archivo:LinuxCon_Europe_Linus_Torvalds_03_(cropped).jpg)
 
-![TRichard Stallman](ruta_de_la_imagen)
+![Richard Stallman](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Richard_Stallman_at_Pittsburgh_University.jpg/330px-Richard_Stallman_at_Pittsburgh_University.jpg)
 
 ## Pregunta 6
 
-> Seguramente conoces quién es Pati Chapoy o Javier 'Chicharito' Hernandez. Pero, ¿conoces quién
-> es y qué hizo Miguel de Icaza? ¿Y Federico Mena? Acompaña aquí tu respuesta con una imagen de cada
-> uno de ellos (haz uso de la sintaxis de Markdown para ello).
+> Seguramente conoces quién es Pati Chapoy o Javier 'Chicharito' Hernandez. Pero, ¿conoces quién es y qué hizo Miguel de Icaza? ¿Y Federico Mena? Acompaña aquí tu respuesta con una imagen de cada uno de ellos (haz uso de la sintaxis de Markdown para ello).
 
 ### Respuesta
 
-![Texto alternativo](ruta_de_la_imagen)
+![Miguel de Icaza es un reconocido ingeniero de software y emprendedor mexicano. Es conocido por ser uno de los fundadores del proyecto GNOME, un entorno de escritorio popular en sistemas operativos basados en Linux. También cofundó la empresa Xamarin, que desarrolla herramientas y plataformas de desarrollo de aplicaciones móviles multiplataforma. Miguel de Icaza ha contribuido significativamente al software libre y al ecosistema de código abierto, así como a la innovación en el campo de la informática.](https://es.wikipedia.org/wiki/Archivo:Miguel_de_Icaza.jpg)
 
+![Federico Mena es un destacado desarrollador de software y diseñador de interfaces de usuario. Es reconocido por su contribución al proyecto GNOME, donde ha desempeñado un papel clave en el desarrollo y diseño de diversas aplicaciones y componentes del entorno de escritorio. Federico Mena también ha participado activamente en el desarrollo de tecnologías relacionadas con gráficos y rendering en Linux. Su trabajo ha sido fundamental para mejorar la experiencia de usuario y promover el uso de software libre en el ámbito de la informática.](https://i.blogs.es/66f6b5/federico-mena/1366_2000.jpg)
 
 ## Pregunta 7
 
@@ -68,7 +67,7 @@ El juego 'Space Travel' fue desarrollado por Ken Thompson en 1969 como parte del
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+No, aunque comparten algunas similitudes, "software libre" y "código abierto" no son exactamente lo mismo. El software libre se refiere a programas de computadora que brindan a los usuarios libertades fundamentales, como la libertad de usar, estudiar, modificar y distribuir el software. Estas libertades están respaldadas por una licencia específica, como la Licencia Pública General de GNU (GPL).Por otro lado, el término "código abierto" se refiere a una filosofía de desarrollo de software que enfatiza la disponibilidad del código fuente de una aplicación. El código abierto permite a los usuarios acceder, modificar y distribuir el código fuente, pero no necesariamente implica el mismo nivel de libertades que el software libre.
 
 ## Pregunta 8
 
@@ -76,6 +75,6 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Existen cientos de distribuciones de Linux disponibles, lo que hace difícil tener un número exacto. Algunas de las distribuciones más populares incluyen Ubuntu, Debian, Fedora, CentOS, openSUSE y Arch Linux. En cuanto a las distribuciones de Linux que no son gratuitas o tienen versiones comerciales, hay algunas opciones disponibles. Por ejemplo, Red Hat Enterprise Linux (RHEL) es una distribución que ofrece una versión gratuita llamada CentOS, pero también tiene una versión comercial con soporte y características adicionales. 
 
 
